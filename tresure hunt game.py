@@ -32,7 +32,7 @@ def treasurehunt():
                         print("gala...bara brsa ra tapasya sukhua poda re gala...\n chhii!!!...")
                         break
                     elif f=="r" or f=="R":
-                        print("wooooohoo.....you got it {}..yo found the treasur..\ncongrats...\n$$$$$$$$ TRESURE FOUND $$$$$$$$$$$$$".format(name))
+                        print("wooooohooo.....you got it {}..yo found the treasur..\ncongrats...\n$$$$$$$$ TRESURE FOUND $$$$$$$$$$$$$".format(name))
                         break
 
 
