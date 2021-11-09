@@ -20,7 +20,7 @@ def TextbasedAdventureGame():
                 break
             elif doars=="r"or doars=="R":
                 print("wahh...very good welcome to the [LEVEL 2]")
-                print("come back later.....")
+                print(" myname is dibya")
 
 
 TextbasedAdventureGame()
